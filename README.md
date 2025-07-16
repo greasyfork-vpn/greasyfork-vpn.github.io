@@ -1,6 +1,6 @@
 <h2>GreasyFork打不开了？国内加速镜像站|官网入口</h2>
 <p>GreasyFork由Jason Barnabe创建，他同时也是Stylish主题定制工具的创始人。该网站是一个开源项目，所有代码和文档均在GitHub上公开，任何人都可以参与贡献或提出建议。GreasyFork的主要功能是为用户提供一个平台，让他们可以创建、分享和使用增强或修改网站功能的脚本。这些脚本通常由开发者编写，用户则可以免费安装并使用，以提升浏览体验。通过安装Tampermonkey或Userscripts等脚本管理器，用户可以轻松地在GreasyFork上找到并安装脚本。</p>
-<p><strong>一键访问：</strong><a href="https://www.litxdh.com/sites/greasy-fork.html" target="_blank"><strong>GreasyFork最新网址</strong></a></p>
+<p><strong>一键访问：</strong><a href="https://greasyfork.wwwnav.com/" target="_blank"><strong>GreasyFork最新网址</strong></a></p>
 <p><strong>一键访问：</strong><a href="https://wangpanziyuan.pages.dev/" target="_blank"><strong>电子书/4K电影/无损音乐资源下载资源包</strong></a></p>
 <p><strong>一键访问：</strong><a href="http://ip.harmonylink.net/share/e82025" target="_blank"><strong>海外代理网络·可看蓝光4K影视</strong></a></p>
 <p><strong>功能特点：</strong></p>
